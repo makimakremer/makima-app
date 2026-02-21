@@ -1,0 +1,2 @@
+:HL["/makima-app/_next/static/chunks/5e0f0b35d6929ee0.css","style"]
+0:{"buildId":"9HURS5n1YK2rzdRJD5ip3","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
